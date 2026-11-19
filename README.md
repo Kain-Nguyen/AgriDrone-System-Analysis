@@ -1,6 +1,6 @@
 # AgriDrone — Hệ Thống Đặt Lịch & Điều Phối Dịch Vụ UAV Nông Nghiệp
 
-**Đồ án Phân tích & Thiết kế Hệ thống Thông tin | Đại học FPT**
+**Đồ án Phân tích & Thiết kế Hệ thống Thông tin**
 
 AgriDrone là nền tảng web tập trung kết nối hộ nông dân với các đội bay UAV chuyên nghiệp tại khu vực Đồng bằng sông Cửu Long. Kho lưu trữ này tổng hợp trọn bộ hồ sơ Phân tích Nghiệp vụ và Thiết kế Hệ thống gồm đặc tả yêu cầu, mô hình hóa quy trình, thiết kế cơ sở dữ liệu và giao diện mẫu.
 
